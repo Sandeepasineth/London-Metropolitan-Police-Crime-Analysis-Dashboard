@@ -4,7 +4,7 @@
 A comprehensive Power BI dashboard analyzing crime patterns in the Greater London area, using data from the UK Metropolitan Police Service (MPS). This project combines SQL database implementation with Power BI visualization to provide interactive insights into crime trends across London.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](.screenshot.png)
+![Dashboard Preview](.Screenshot.png)
 
 ## 🎯 Features
 - Interactive crime distribution visualization
